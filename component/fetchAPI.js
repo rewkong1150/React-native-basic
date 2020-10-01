@@ -8,7 +8,7 @@ export default function FetchAPI(props) {
     return (
         <View style={styles.container}>
             <Text style={styles.rewText}>{showText}</Text>
-            <Button title="SHOW" onPress={show}/>
+            <Button title="SHOWS" onPress={show}/>
             <StatusBar style="auto" />
         </View>
     );

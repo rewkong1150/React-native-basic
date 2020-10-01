@@ -14,7 +14,7 @@ export default function App() {
   return (
     <View>
       <FetchAPI type={account} />
-      <FetchAPI type="5555" />
+      <FetchAPI type="REW" />
     </View>
   );
 }
